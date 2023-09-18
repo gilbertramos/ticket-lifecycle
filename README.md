@@ -31,6 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="717" alt="Screenshot 2023-09-14 125422" src="https://github.com/gilbertramos/ticket-lifecycle/assets/140354494/2345afd0-13df-49a8-b546-232099167333">
 
 </p>
 <p>
