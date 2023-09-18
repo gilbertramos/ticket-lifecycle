@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="720" alt="Screenshot 2023-09-14 123826" src="https://github.com/gilbertramos/ticket-lifecycle/assets/140354494/fa67027b-7fc3-4645-83be-d15f118a1373">
 </p>
 <p>
-In this example of four support tickets, I would start by assigning the severity level of the tickets to organized their priority.  Then I would click on one of the tickets to begin handling it.  
+In this example of four support tickets, I would start by seeing what could wait, what could be done by someone else, or needs support immediately .  Then I would click on one of the tickets to begin handling it.  
 </p>
 <br />
 
@@ -35,7 +35,7 @@ In this example of four support tickets, I would start by assigning the severity
 
 </p>
 <p>
-This ticket will be passed on to 
+This ticket shows priority level it has been set it to, as well as the SLA plan.  The department it is coming from, and the message from Ken about the problem.  The reply to Ken about handing off this tecket John.
 </p>
 <br />
 
