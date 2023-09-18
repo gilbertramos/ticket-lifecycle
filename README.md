@@ -35,7 +35,7 @@ In this example of four support tickets, I would start by assigning the severity
 
 </p>
 <p>
-On this ticket
+This ticket will be passed on to 
 </p>
 <br />
 
